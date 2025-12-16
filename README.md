@@ -9,3 +9,5 @@ Hover animation using CSS transform
 Smooth overlay reveal using opacity transitions
 Use of position: absolute for layered design
 Image + information + hover-details structur
+
+This contains my name and a hover effect.
